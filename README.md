@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntoniusGad
 - 👀 I’m interested in Data analysis ,SQL,SQLITE,Python ,UI UX Design ,R and Tablue 
 - 🌱 I’m currently learning Tablue , Python programing and machine learning.
-- 💞️ I’m looking to collaborate on any data sience and machean learing activities.  
+- 💞️ I’m looking to collaborate on any data sience and machine learning projects.  
 - 📫 You can alwys reach me at Antonius.gad#gmail.com
 
 <!---
